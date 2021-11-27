@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python, C#, C++**
 
-- 📫 How to reach me **brad602@gmail.com**
+- 📫 How to reach me-> **coming soon...** <-
 
-- ⚡ Fun fact **fortune | cowsay | lolcat**
+- ⚡ Fun fact: **fortune | cowsay | lolcat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max-p0w3r" alt="max-p0w3r" /></a> </p>
-
 - 🔭 I’m currently working on **python based automated tools**
 
 - 🌱 I’m currently learning **Python, C#, C++**

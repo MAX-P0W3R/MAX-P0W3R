@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /> </p>
 
-- 🔭 I’m currently working on **python based automated tools**
+- I’m currently working on **python based automated tools for bug bounty vulnerability testing**
 
-- 🌱 I’m currently learning **Python, C#, C++**
+- Fun fact: **fortune | cowsay | lolcat**
 
-- 📫 How to reach me-> **coming soon...** <-
-
-- ⚡ Fun fact: **fortune | cowsay | lolcat**
+- Rule# 76: No excuses. Always play like a champion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

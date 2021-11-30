@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /> </p> 
 
-- I’m currently working on **python based automated tools for bug bounty vulnerability testing**
+- I’m currently working on **python based automated tools for bug bounty hunting and vulnerability testing**
 
 - Fun fact: **fortune | cowsay | lolcat**
 

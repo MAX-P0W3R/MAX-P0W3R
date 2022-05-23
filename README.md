@@ -20,4 +20,4 @@
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&theme=blue-green)](https://github.com/max-p0w3r/github-readme-stats)
 
-[![max-p0w3r's github streak](https://github-readme-streak-stats.herokuapp.com/?user=max-p0w3r&theme=blue-green)](https://github.com/max-p0w3r/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max-p0w3r&theme=blue-green)](https://git.io/streak-stats)

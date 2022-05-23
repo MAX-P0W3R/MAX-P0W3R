@@ -1,11 +1,13 @@
-<h1 align="center">--> Max Power <--</h1>
+<h1 align="center"> - Max Power -</h1>
 <h3 align="center">Cyber Security Architect | BS | Sec+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /> </p> 
 
-- I’m currently working on python based automated tools for bug bounty hunting and vulnerability testing
-
-- Fun fact: ```fortune | cowsay | lolcat```
+- Ongoing projects:
+    - Building Python based tools for automating penetration testing and vulnerability analysis
+    - Creating a text-based adventure game based off the 80's classic 'Lone Wolf'
+    - Home automation systems built on raspberry pi and arduino boards
+    - Home security system built with a raspberry pi and web based camera/controls inside a remote control truck from goodwill
 
 - Rule# 76: No excuses. Always play like a champion.
 

@@ -8,7 +8,7 @@
     - Creating a text-based adventure game based off the 80's classic 'Lone Wolf'
     - Home automation systems built on raspberry pi and arduino boards
     - Home security system built with a raspberry pi and web based camera/controls inside a remote control truck from goodwill
-    - ¯\_(ツ)_/¯
+    - `¯\_(ツ)_/¯`
 
 - Rule# 76: No excuses. Always play like a champion.
 

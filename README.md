@@ -23,4 +23,4 @@
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&theme=blue-green)](https://github.com/max-p0w3r/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max-p0w3r&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=max-p0w3r&theme=blue-green)](https://git.io/streak-stats)

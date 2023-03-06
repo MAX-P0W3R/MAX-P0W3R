@@ -11,6 +11,7 @@
     - `¯\_(ツ)_/¯`
 
 - Rule# 76: No excuses. Always play like a champion.
+<p align="left"> <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

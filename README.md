@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" /></a> 
+<a href="https://www.linkedin.com/in/brad--turner" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brad--turner" /></a> 
 </p>
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)

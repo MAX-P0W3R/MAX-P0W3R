@@ -16,10 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brad-turner-90ab06205?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3brwy%2bjodprcmpznb8ohkwca%3d%3d" /></a> 
 </p>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=plastic&logo=mastodon&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)

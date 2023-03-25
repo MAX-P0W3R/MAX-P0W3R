@@ -2,13 +2,19 @@
 <h3 align="center">Cyber Security Architect</h3>
 <p align="center"> <a href="https://www.crayola.com/" target="_blank" rel="noreferrer"> <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/> </p>
  
-- Ongoing projects:
-    - Building Python based tools for automating penetration testing and vulnerability analysis
-    - Creating a C# text-based adventure game based off the 80's classic 'Lone Wolf'
-    - Home automation systems built on raspberry pi and arduino boards
-    - Home security system built with a raspberry pi and web based camera/controls inside a remote control truck 
-    - Snow/weather report with RGB matrix board and raspberry pi (COMING SOON!)
-    - `¯\_(ツ)_/¯`
+<h3 align="left"> Ongoing projects: </h3>
+
+- Building Python based tools for automating penetration testing and vulnerability analysis
+
+- Creating a C# text-based adventure game based off the 80's classic 'Lone Wolf'
+
+- Home automation systems built on raspberry pi and arduino boards
+
+- Home security system built with a raspberry pi and web based camera/controls inside a remote control truck 
+
+- Snow/weather report with RGB matrix board and raspberry pi (COMING SOON!)
+
+- `¯\_(ツ)_/¯`
 
 - Rule# 76: No excuses. Always play like a champion.
 

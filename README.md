@@ -35,8 +35,6 @@
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white)
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=plastic&logo=codewars&logoColor=grey)
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&theme=blue-green)](https://github.com/max-p0w3r/github-readme-stats)

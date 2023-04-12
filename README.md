@@ -1,6 +1,6 @@
 <h1 align="center"> - Max Power -</h1>
 <h3 align="center">Cyber Security Architect</h3>
-<p align="center"> <a href="https://www.crayola.com/" target="_blank" rel="noreferrer"> <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/> </p>
+<p align="center"> <a href="https://www.crayola.com/" target="_blank" rel="noreferrer"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> </p>
  
 <h3 align="left"> Ongoing projects: </h3>
 

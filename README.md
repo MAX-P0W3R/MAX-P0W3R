@@ -21,15 +21,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- 
+<p align="left"> 
 <a href="https://www.linkedin.com/in/brad--turner" target="_blank" rel="noreferrer"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brad--turner" /></a> 
-
-<a href="" target="_blank" rel="noreferrer"><img align="left" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" />
- 
-<a href="" target="_blank" rel="noreferrer"><img align="left" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=plastic&logo=mastodon&logoColor=white" />
- 
-<a href="" target="_blank" rel="noreferrer"><img align="left" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white" />
 </p>
 
 ---

@@ -15,6 +15,8 @@
 
 - Snow/weather report with RGB matrix board and raspberry pi (COMING SOON!)
 
+- Making a LED powered METAR map
+
 - `¯\_(ツ)_/¯`
 
 - Rule# 76: No excuses. Always play like a champion.

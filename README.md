@@ -8,7 +8,7 @@
 
 - Creating a C# text-based adventure game based off the 80's classic 'Lone Wolf'
 
-- [Plex server running on (you guessed it) a Raspberry Pi!](../raspberry_pi_plex_server)
+- [Plex server running on (you guessed it) a Raspberry Pi!](/raspberry_pi_plex_server)
 
 - Home security system built with a raspberry pi and web based camera/controls inside a remote control truck 
 

@@ -1,7 +1,6 @@
 <h1 align="center"> - Max Power -</h1>
 <h3 align="center">Cyber Security Architect</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /></p> 
-<p align="center"> <a href="https://www.crayola.com/" target="_blank" rel="noreferrer"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg"/> </p>
  
 <h3 align="left"> Ongoing projects: </h3>
 

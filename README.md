@@ -33,3 +33,5 @@
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&theme=blue-green)](https://github.com/max-p0w3r/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=max-p0w3r&theme=blue-green)](https://git.io/streak-stats)
+
+> Give me six hours to chop down a tree and I will spend the first four sharpening my axe.

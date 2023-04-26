@@ -6,7 +6,7 @@
 
 - Building Python based tools for automating penetration testing and vulnerability analysis
 
-- Creating a C# text-based adventure game based off the 80's classic 'Lone Wolf'
+- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf']()
 
 - [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server)
 

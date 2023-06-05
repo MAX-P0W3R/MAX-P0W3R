@@ -30,7 +30,7 @@
 
 <p> </p>
 
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=max-p0w3r&theme=blue-green)](https://git.io/streak-stats)
 

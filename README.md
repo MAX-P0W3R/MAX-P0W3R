@@ -12,6 +12,8 @@
 
 - Home security system built with a raspberry pi and web based camera/controls inside a remote control truck 
 
+- Building and creating cryptocurrency on blockchain (web3)
+ 
 - Snow/weather report with RGB matrix board and raspberry pi (COMING SOON!)
 
 - Making a LED powered METAR map

@@ -1,5 +1,5 @@
 <h1 align="center"> - Max Power -</h1>
-<h3 align="center">Cyber Security Architect</h3>
+<h3 align="center">Cyber Security Researcher</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=max-p0w3r&label=Profile%20views&color=0e75b6&style=flat" alt="max-p0w3r" /></p> 
  
 <h3 align="left"> Ongoing projects: </h3>

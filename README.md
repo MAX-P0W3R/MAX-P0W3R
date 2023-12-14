@@ -4,19 +4,19 @@
  
 <h3 align="left"> Ongoing projects: </h3>
 
-- Building Python based tools for automating penetration testing and vulnerability analysis
+- Building Python & bash based tools for automating penetration testing and vulnerability analysis.
 
-- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark)
+- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark).
 
-- [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server)
+- [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server).
 
-- Home security system built with a raspberry pi and web based camera/controls inside a remote control truck 
+- ATTiny85 Rubber Ducky 
 
-- Building and creating cryptocurrency on blockchain (web3)
+- Building and creating cryptocurrency on blockchain (web3).
  
 - Snow/weather report with RGB matrix board and raspberry pi (COMING SOON!)
 
-- Making a LED powered METAR map
+- Making a LED powered METAR map (COMING SOON!)
 
 - `¯\_(ツ)_/¯`
 

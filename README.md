@@ -10,7 +10,7 @@
 
 - [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server).
 
-- ATTiny85 Rubber Ducky 
+- [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/ATTiny85) 
 
 - Building and creating cryptocurrency on blockchain (web3).
  

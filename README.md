@@ -15,7 +15,7 @@
  
 <h3 align="left"> Ongoing projects: </h3>
 
-- Building Python & bash based tools for automating penetration testing and vulnerability analysis.
+- [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash based tools for automating penetration testing and vulnerability analysis.
 
 - Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark).
 

@@ -17,13 +17,13 @@
 
 - [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash based tools for automating penetration testing and vulnerability analysis.
 
-- [Hardware hacking](https://github.com/MAX-P0W3R/badgelife) 
+- [Hardware hacking](https://github.com/MAX-P0W3R/badgelife) <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark).
+- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark). <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 
 - [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server).
 
-- [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/Attiny85) 
+- [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/Attiny85) <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
 - Building and creating cryptocurrency on blockchain (web3).
  

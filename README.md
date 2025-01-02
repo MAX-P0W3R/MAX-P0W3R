@@ -27,7 +27,7 @@
 
 - Building and creating cryptocurrency on blockchain (web3).
  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!)
+- [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!) <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 - Making a LED powered METAR map (COMING SOON!)
 

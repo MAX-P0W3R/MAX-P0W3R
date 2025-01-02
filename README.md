@@ -25,7 +25,7 @@
 
 - Building and creating cryptocurrency on blockchain (web3).
  
-- Ski report & weather with RGB matrix board and raspberry pi (COMING SOON!)
+- [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!)
 
 - Making a LED powered METAR map (COMING SOON!)
 

@@ -15,7 +15,7 @@
  
 <h3 align="left"> Ongoing projects: </h3>
 
-- [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash based tools for automating penetration testing and vulnerability analysis.
+- [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash tools for automating penetration testing and vulnerability analysis.
 
 - [Hardware hacking](https://github.com/MAX-P0W3R/badgelife) <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 

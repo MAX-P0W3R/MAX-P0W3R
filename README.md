@@ -15,6 +15,8 @@
  
 <h3 align="left"> Ongoing projects: </h3>
 
+- [Random Password Generator](https://github.com/MAX-P0W3R/RandomPasswordGenerator/tree/main) with python.
+
 - [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash tools for automating penetration testing and vulnerability analysis.
 
 - [Hardware hacking](https://github.com/MAX-P0W3R/badgelife)

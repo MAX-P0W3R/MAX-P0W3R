@@ -3,7 +3,7 @@
 
 <div align="center">
 
- [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-blue)](https://war.ukraine.ua) 
+ [![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-blue)](https://war.ukraine.ua){:target="_blank"}
 
 </div>
 <div align="center">

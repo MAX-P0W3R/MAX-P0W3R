@@ -21,6 +21,8 @@
 
 - [Hardware hacking](https://github.com/MAX-P0W3R/badgelife)
 
+- [Mobile Application](https://github.com/MAX-P0W3R/budget_deux)- Budget planner using flutter and dart.
+
 - Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark). 
 
 - [Plex server](https://github.com/MAX-P0W3R/raspberry_pi_plex_server) running on (you guessed it) a Raspberry Pi!.

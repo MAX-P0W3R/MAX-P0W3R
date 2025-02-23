@@ -19,6 +19,8 @@
 
 - [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash tools for automating penetration testing and vulnerability analysis.
 
+- [The Daily Dungeon]() A solo DND style quest built for quick adventures. Scaling up to create a new map and set of enemies, weapons, and magic each day.
+
 - [Hardware hacking](https://github.com/MAX-P0W3R/badgelife)
 
 - [Mobile Application](https://github.com/MAX-P0W3R/budget_deux)- Budget planner using flutter and dart.
@@ -29,7 +31,7 @@
 
 - [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/Attiny85)
   
-- Building and creating cryptocurrency on blockchain (web3).
+- Building and creating cryptocurrency on blockchain/web3. (under so much construction)
  
 - [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!) 
 

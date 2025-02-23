@@ -19,7 +19,7 @@
 
 - [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash tools for automating penetration testing and vulnerability analysis.
 
-- [The Daily Dungeon]() A solo DND style quest built for quick adventures. Scaling up to create a new map and set of enemies, weapons, and magic each day.
+- [The Daily Dungeon](https://github.com/MAX-P0W3R/OnlyDungeons) A solo DND style quest built for quick adventures. Scaling up to create a new map and set of enemies, weapons, and magic each day.
 
 - [Hardware hacking](https://github.com/MAX-P0W3R/badgelife)
 

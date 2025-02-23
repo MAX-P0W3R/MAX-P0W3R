@@ -17,17 +17,17 @@
 
 - [Network Scanner](https://github.com/MAX-P0W3R/NetworkScanner) using bash tools for automating penetration testing and vulnerability analysis.
 
-- [Hardware hacking](https://github.com/MAX-P0W3R/badgelife) <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+- [Hardware hacking](https://github.com/MAX-P0W3R/badgelife)
 
-- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark). <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+- Creating a C# text-based adventure game based off the 80's classic ['Lone Wolf'](https://github.com/MAX-P0W3R/FlightFromTheDark). 
 
-- [Plex server running on (you guessed it) a Raspberry Pi!](https://github.com/MAX-P0W3R/raspberry_pi_plex_server).
+- [Plex server](https://github.com/MAX-P0W3R/raspberry_pi_plex_server) running on (you guessed it) a Raspberry Pi!.
 
-- [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/Attiny85) <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-
+- [ATTiny85 Rubber Ducky](https://github.com/MAX-P0W3R/Attiny85)
+  
 - Building and creating cryptocurrency on blockchain (web3).
  
-- [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!) <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+- [Ski report & current weather](https://github.com/MAX-P0W3R/SnowBoard) with RGB matrix board and raspberry pi (COMING SOON!) 
 
 - Making a LED powered METAR map (COMING SOON!)
 

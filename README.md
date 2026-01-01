@@ -57,5 +57,5 @@
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=max-p0w3r&theme=aura)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MAX-P0W3R)](https://git.io/streak-stats)
 > Give me six hours to chop down a tree and I will spend the first four sharpening my axe.

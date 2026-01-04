@@ -12,7 +12,6 @@
  
 </div>
  
- 
 <h3 align="left"> Ongoing projects: </h3>
 
 - [Neokey Trinkey](https://github.com/MAX-P0W3R/NeokeyTrinkey-url-smash) One click command launcher.
@@ -39,9 +38,3 @@
 
 <h3 align="left"> Connect with me: </h3>
 <a href="https://www.linkedin.com/in/brad--turner" target="_blank" rel="noreferrer"> <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brad--turner" /></a>
-
-<p> </p>
-
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=max-p0w3r&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=max-p0w3r&theme=aura)](https://git.io/streak-stats)
